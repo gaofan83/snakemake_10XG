@@ -1,0 +1,2 @@
+snakemake -s Snakefile_10XG --dag log/{FT-SA12432,FT-SA12433}.txt | dot -Tsvg > dag.svg
+

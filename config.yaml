@@ -1,0 +1,14 @@
+#sample ID
+SAMPLES:
+  FT-SA12432:
+  FT-SA12433:
+#fatsq directory
+DIR: 11182018
+#reference dir
+REF: /home/ref_data/refdata-cellranger-hg19-1.2.0
+#threads needed
+THREAD: 64
+#number of expected cells
+CELL: 5000
+#chemistry
+CHEM: SC3Pv2
